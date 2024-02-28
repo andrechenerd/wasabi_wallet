@@ -1,0 +1,1 @@
+ /home/strozer/flutter_projects/wasabi2/.dart_tool/flutter_build/fe296d790598d0006a8fb9aedc0cd0f7/native_assets.yaml: 
